@@ -1,0 +1,7 @@
+ace-editor:1.1
+analysis-core:1.96
+analysis-model-api:6.0.2
+ant:1.10
+antisamy-markup-formatter:1.6
+apache-httpcomponents-client-4-api:4.5.10-1.0
+artifactory:3.4.1
