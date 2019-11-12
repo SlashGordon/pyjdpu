@@ -1,6 +1,7 @@
 # pyjdpu
 
 [![Build Status](https://travis-ci.org/SlashGordon/pyjdpu.svg?branch=master)](https://travis-ci.org/SlashGordon/pyjdpu)
+![PyPI - Downloads](https://img.shields.io/pypi/dd/pyjdpu?style=plastic)
 [![Coverage Status](https://coveralls.io/repos/github/SlashGordon/pyjdpu/badge.svg?branch=master)](https://coveralls.io/github/SlashGordon/pyjdpu?branch=master)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/26e80c8a34e74a7395bd41409b2b9f75)](https://www.codacy.com/manual/SlashGordon/pyjdpu?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SlashGordon/pyjdpu&amp;utm_campaign=Badge_Grade)
 
