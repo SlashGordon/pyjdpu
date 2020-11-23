@@ -18,7 +18,7 @@ with open('README.md', 'r') as fh:
 
 INSTALL_REQUIRES = (
     [
-        'uplink==0.9.0',
+        'uplink==0.9.3',
     ]
 )
 
